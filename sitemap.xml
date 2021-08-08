@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.yfcloud.site/2021/06/25/react-xue-xi/</loc>
+    <loc>https://www.yfcloud.site/2021/06/30/eact-yuan-ma-xue-xi-3/</loc>
+    
+    <lastmod>2021-08-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yfcloud.site/2021/06/28/react-yuan-ma-xue-xi-2/</loc>
+    
+    <lastmod>2021-08-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yfcloud.site/2021/06/25/react-yuan-ma-xue-xi-1/</loc>
     
     <lastmod>2021-08-08</lastmod>
     
@@ -37,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://www.yfcloud.site/about/index.html</loc>
-    
-    <lastmod>2021-08-05</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://www.yfcloud.site/categories/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
@@ -59,6 +66,13 @@
   
   <url>
     <loc>https://www.yfcloud.site/friends/index.html</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.yfcloud.site/about/index.html</loc>
     
     <lastmod>2021-08-05</lastmod>
     
@@ -172,20 +186,6 @@
   </url>
   
   <url>
-    <loc>https://www.yfcloud.site/tags/%E5%8D%9A%E5%AE%A2-hexo/</loc>
-    <lastmod>2021-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yfcloud.site/tags/github/</loc>
-    <lastmod>2021-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yfcloud.site/tags/react/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
@@ -194,6 +194,20 @@
   
   <url>
     <loc>https://www.yfcloud.site/tags/react%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yfcloud.site/tags/%E5%8D%9A%E5%AE%A2-hexo/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yfcloud.site/tags/github/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
